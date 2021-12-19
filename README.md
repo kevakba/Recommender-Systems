@@ -2,7 +2,7 @@
 
 Here in this project, I have compared two different recommender system methods viz. Matrix Factorization and Neural Network based Matrix Factorization (NeuMF).
 
-I assume that readers have basic idea about collaborative filtering methods in recommender system. Neverthless, let me give you the overview of both the methods and then we will go towards actual results.
+I assume that readers have basic idea about collaborative filtering methods in recommender system. Nevertheless, let me give you the overview of both the methods and then we will go towards actual results.
 
 ## 1. Matrix Factorization
 
